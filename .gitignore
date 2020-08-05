@@ -37,3 +37,8 @@ jspm_packages
 .node_repl_history
 
 *.sqlite
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/sequelize-auto-migrations.iml
+.idea/vcs.xml
